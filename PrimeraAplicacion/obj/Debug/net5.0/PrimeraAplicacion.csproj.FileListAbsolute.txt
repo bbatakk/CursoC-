@@ -1,0 +1,15 @@
+/Users/alexabadrodriguez/Projects/PrimeraAplicacion/PrimeraAplicacion/bin/Debug/net5.0/PrimeraAplicacion.deps.json
+/Users/alexabadrodriguez/Projects/PrimeraAplicacion/PrimeraAplicacion/bin/Debug/net5.0/PrimeraAplicacion.runtimeconfig.json
+/Users/alexabadrodriguez/Projects/PrimeraAplicacion/PrimeraAplicacion/bin/Debug/net5.0/PrimeraAplicacion.runtimeconfig.dev.json
+/Users/alexabadrodriguez/Projects/PrimeraAplicacion/PrimeraAplicacion/bin/Debug/net5.0/PrimeraAplicacion.dll
+/Users/alexabadrodriguez/Projects/PrimeraAplicacion/PrimeraAplicacion/bin/Debug/net5.0/ref/PrimeraAplicacion.dll
+/Users/alexabadrodriguez/Projects/PrimeraAplicacion/PrimeraAplicacion/bin/Debug/net5.0/PrimeraAplicacion.pdb
+/Users/alexabadrodriguez/Projects/PrimeraAplicacion/PrimeraAplicacion/obj/Debug/net5.0/PrimeraAplicacion.csproj.AssemblyReference.cache
+/Users/alexabadrodriguez/Projects/PrimeraAplicacion/PrimeraAplicacion/obj/Debug/net5.0/PrimeraAplicacion.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alexabadrodriguez/Projects/PrimeraAplicacion/PrimeraAplicacion/obj/Debug/net5.0/PrimeraAplicacion.AssemblyInfoInputs.cache
+/Users/alexabadrodriguez/Projects/PrimeraAplicacion/PrimeraAplicacion/obj/Debug/net5.0/PrimeraAplicacion.AssemblyInfo.cs
+/Users/alexabadrodriguez/Projects/PrimeraAplicacion/PrimeraAplicacion/obj/Debug/net5.0/PrimeraAplicacion.csproj.CoreCompileInputs.cache
+/Users/alexabadrodriguez/Projects/PrimeraAplicacion/PrimeraAplicacion/obj/Debug/net5.0/PrimeraAplicacion.dll
+/Users/alexabadrodriguez/Projects/PrimeraAplicacion/PrimeraAplicacion/obj/Debug/net5.0/ref/PrimeraAplicacion.dll
+/Users/alexabadrodriguez/Projects/PrimeraAplicacion/PrimeraAplicacion/obj/Debug/net5.0/PrimeraAplicacion.pdb
+/Users/alexabadrodriguez/Projects/PrimeraAplicacion/PrimeraAplicacion/obj/Debug/net5.0/PrimeraAplicacion.genruntimeconfig.cache
