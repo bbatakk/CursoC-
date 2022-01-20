@@ -17,7 +17,6 @@ namespace PrimeraAplicacion
             int numTotal = num1 + num2;
 
             Console.WriteLine($"La suma és: {numTotal}");
-            //holaqeta
              
         }
     }
